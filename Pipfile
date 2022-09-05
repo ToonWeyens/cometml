@@ -8,6 +8,13 @@ comet-ml = "*"
 numpy = "*"
 tensorflow = "*"
 matplotlib = "*"
+torch = "*"
+transformers = "*"
+scikit-learn = "*"
+datasets = "*"
+ipywidgets = "*"
+widgetsnbextension = "*"
+pandas-profiling = "*"
 
 [dev-packages]
 ipykernel = "*"
