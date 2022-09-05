@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 comet-ml = "*"
 numpy = "*"
+tensorflow = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
